@@ -32,6 +32,7 @@ nav .logo button {
   font-family: var(--primaryFont);
   font-size: clamp(1.3rem, 1.8vw, 1.8rem);
   font-weight: 600;
+  color: whitesmoke;
 }
 
 nav .hamMenu {
